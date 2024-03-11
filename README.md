@@ -74,7 +74,7 @@ React Navigation to slide in next screen from right to left.
 Star Rating library to use it in the application.
 mmkv library to store the data in local storage.
 Toast library to show the toast message on the screen.
-Since I had no experience in TypeScript so I have used google to understand the syntax of TypeScript and I have used GPT to convert some of the code to Typescript from javascript.
+Since I had no experience in TypeScript so I have used google to understand the syntax of TypeScript.
 Faced some installation issues in installing Flash list so to save time I have used FlatList instead of FlashList.
 
 # SystemsAssignment
